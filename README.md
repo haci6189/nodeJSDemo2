@@ -1,10 +1,16 @@
 # nodeJSDemo2
 
-// install first
+// install first:
+
 npm install express
+
 npm install morgan
+
 npm install serve-static
+
 npm install body-parser
 
-// run
+// run:
+
 node index.js
+
